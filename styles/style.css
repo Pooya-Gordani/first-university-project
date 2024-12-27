@@ -13,6 +13,7 @@
     justify-content: center;
     align-items: center;
     background-color: #dddddd;
+    margin-bottom: 50px;
 }
 
 ul{
@@ -108,7 +109,7 @@ li a:hover{
     height: 150px;
     background-color: #ffffff;
     border-top: 1px solid #ddd;
-
+    margin-top: 50px;
 }
 
 .footer-content{
