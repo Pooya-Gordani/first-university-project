@@ -1,0 +1,44 @@
+body{
+    background-color: #eee;
+}
+
+.header{
+    margin-bottom: 50px;
+}
+
+.section-products{
+    width: 100%;
+    background-color: #eee;
+}
+
+.container{
+    width: 100%;
+    padding: 20px;
+    background-color: #eee;
+    display: flex;
+}
+
+.product-card{
+    width: 33%;
+    border-radius: 20px;
+    background-color: #ccc;
+    margin: 0 20px;
+}
+
+.header-card{
+    width: 100%;
+}
+
+.header-card img{
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.body-card p{
+    padding: 20px;
+    text-align: justify;
+}
+
+.footer{
+    margin-top: 50px;
+}
