@@ -5,3 +5,44 @@
     list-style-type: none;
 }
 
+/* Horizontal Navigation Bar */
+
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dddddd;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: #dddddd;
+    overflow: hidden;
+}
+
+li{
+    display: inline;
+    float: left;
+}
+
+li a{
+    display: block;
+    padding: 14px 45px;
+    background-color: #dddddd;
+    text-decoration: none;
+    border: 1px solid #bbb;
+}
+
+li a:hover{
+    background-color: #bbb;
+    color: #000000;
+}
+
+.active{
+    background-color: #04AA6D;
+    color: #ffffff;
+}
+
