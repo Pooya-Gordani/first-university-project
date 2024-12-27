@@ -46,3 +46,21 @@ li a:hover{
     color: #ffffff;
 }
 
+
+.productInfo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    padding: 20px;
+}
+
+.productImg{
+    background-image: url('../assets/pics/img01.jpg');
+    width: 800px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
