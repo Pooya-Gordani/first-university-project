@@ -1,0 +1,38 @@
+body{
+    background-color: mintcream;
+}
+
+.section-forms{
+    width: 100%;
+    /* background: #bbb; */
+}
+
+.sec-account, .sec-inquiry{
+    background-color: oldlace;
+    padding: 5px 20px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.sec-account *, .sec-inquiry *{
+    margin: 5px 0;
+    font-size: inherit;
+    padding: 5px;
+}
+
+/* user message */
+.user-message{
+    margin: 20px 0 10px;
+}
+
+.user-msg{
+    max-width: 500px;
+    min-width: 500px;
+    max-height: 200px;
+    min-height: 200px;
+    padding: 10px;
+}
+
+.btn-submit{
+    margin: 10px 0;
+}
